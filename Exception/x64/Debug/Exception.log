@@ -1,0 +1,3 @@
+﻿  Exception_main.cpp
+E:\Step Lessonns\C++\19\Exception\Exception\Exception_main.cpp(43,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Exception.vcxproj -> E:\Step Lessonns\C++\19\Exception\x64\Debug\Exception.exe
